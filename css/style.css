@@ -1,0 +1,326 @@
+.intro{
+    background: url(../img/intro-bg.png) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+    width: 1864px;
+    height: 962px;
+    margin-top: -16px;
+}
+
+.logo a{
+    position: absolute;
+    left: 191px;
+    top: 56px;
+}
+
+nav{
+    position: absolute;
+    right: 21%;
+    top: 62px;
+}
+
+.navs li{
+    margin-left: 82px;
+    display: inline;
+}
+
+.navs a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.intro_title{
+    color: #ffffff;
+    font-size: 50px;
+    position: absolute;
+    left: 191px;
+    top: 263px;
+}
+
+.intro_paragraph{
+    color: #ffffff;
+    font-size: 16px;
+    position: absolute;
+    left: 191px;
+    top: 406px;
+    line-height: 24px;
+}
+
+.oval1{
+    position: absolute;
+    left: 192px;
+    top: 539px;
+}
+
+.line1{
+    position: absolute;
+    left: 191px;
+    top: 583px;
+}
+
+.search_text1{
+    position: absolute;
+    left: 235px;
+    top: 537px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    line-height: 24px;
+    width: 210px;
+}
+
+.oval2{
+    position: absolute;
+    top: 539px;
+    left: 550px;
+}
+
+.line2{
+    position: absolute;
+    top: 583px;
+    left: 549px;
+}
+
+.search_text2{
+    position: absolute;
+    top: 537px;
+    left: 593px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    line-height: 24px;
+    width: 225px;
+}
+
+.button{
+    background-color: #1B7DFF;
+    width: 171px;
+    height: 58px;
+    font-size: 24px;
+    line-height: 29px;
+    margin: 0;
+    position: absolute;
+    top: 532px;
+    left: 906px;
+    border: none;
+    color: #ffffff;
+}
+
+.button:hover {
+    background-color: #2a52be;
+}
+
+.card {
+    position: absolute;
+    top: 739px;
+    left: 300px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 20px rgba(21, 24, 36, 0.15993);
+}
+
+.header_bs{
+    position: absolute;
+    top: 832px;
+    left: 400px;
+    color: #102746;
+    width: 270px;
+    height: 42px;
+    font-size: 35px;
+    line-height: 42px;
+    font-weight: 600;
+}
+
+.benefits1img1{
+    position: absolute;
+    top: 994px;
+    left: 400px;
+}
+
+.benefits1 h2{
+    position: absolute;
+    top: 1097px;
+    left: 400px;
+    width: 154px;
+    height: 24px;
+    font-size: 18px;
+}
+
+.benefits1 p{
+    position: absolute;
+    top: 1147px;
+    left: 400px;
+    font-size: 16px;
+}
+
+.benefits1 a{
+    position: absolute;
+    top: 1258px;
+    left: 400px;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #006DFE;
+    padding-right: 60px;
+    z-index: 1;
+}
+
+.benefits1img2{
+    position: absolute;
+    top: 1266px;
+    left: 528px;
+    z-index: 0;
+}
+
+.benefits2img1 {
+    position: absolute;
+    top: 996px;
+    left: 770px;
+}
+
+.benefits2 h2{
+    position: absolute;
+    top: 1097px;
+    left: 770px;
+    height: 24px;
+    font-size: 18px;
+}
+
+.benefits2 p{
+    position: absolute;
+    top: 1147px;
+    left: 770px;
+    font-size: 16px;
+}
+
+.benefits2 a{
+    position: absolute;
+    top: 1258px;
+    left: 770px;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #006DFE;
+    padding-right: 60px;
+    z-index: 1;
+}
+
+.benefits2img2 {
+    position: absolute;
+    top: 1266px;
+    left: 898px;
+    z-index: 0;
+}
+
+.benefits3img1 {
+    position: absolute;
+    top: 996px;
+    left: 1140px;
+}
+
+.benefits3 h2{
+    position: absolute;
+    top: 1097px;
+    left: 1140px;
+    height: 24px;
+    font-size: 18px;
+}
+
+.benefits3 p{
+    position: absolute;
+    top: 1147px;
+    left: 1140px;
+    font-size: 16px;
+}
+
+.benefits3 a{
+    position: absolute;
+    top: 1258px;
+    left: 1140px;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #006DFE;
+    padding-right: 60px;
+    z-index: 1;
+}
+
+.benefits3img2 {
+    position: absolute;
+    top: 1266px;
+    left: 1268px;
+    z-index: 0;
+}
+
+.headerGIS h1{
+    position: absolute;
+    top: 1525px;
+    left: 300px;
+    font-size: 35px;
+}
+
+.lineGIS{
+    position: absolute;
+    top: 1574px;
+    left: 300px;
+}
+
+.headerGIS a{
+    position: absolute;
+    top: 1539px;
+    left: 1430px;
+    font-size: 16px;
+    color: #006DFE;
+    text-decoration: none;
+    padding-right: 63px;
+    z-index: 1;
+}
+
+.shapeGIS{
+    position: absolute;
+    top:  1544px;
+    left: 1531px;
+    z-index: 0;
+}
+
+.Mount_Fuji h1{
+    position: absolute;
+    top: 1880px;
+    left: 327px;
+    font-size: 50px;
+    color: #ffffff;
+    z-index: 1;
+}
+
+.Mount_Fuji img{
+    max-width: 100%;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    z-index: 0;
+}
+
+.Mount_Fuji:hover img{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.Mount_Fuji{
+    width: 611px;
+    height: 354px;
+    position: absolute;
+    top: 1613px;
+    left: 300px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.Mount_Fujih1{
+    position: absolute;
+    top: 1880px;
+    left: 327px;
+    font-size: 50px;
+    color: #ffffff;
+    z-index: 1;
+}
